@@ -2,7 +2,7 @@
 Mobile computing class assignment: creating a movie search app to fetch movie 
 information from a movie API database and display list of movies and detail description
 
-** In progress and updating **
+** In progress and updating ** 
 
 
 ![Screenshot_20221230-120359_Expo Go_samsung-galaxys20-cosmicgrey-portrait11111](https://user-images.githubusercontent.com/78323898/210204289-cd2e7b78-6928-4e3c-bfc7-9d368523a32e.png)
